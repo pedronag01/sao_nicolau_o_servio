@@ -103,7 +103,7 @@ body{
     background-image: url("https://i0.wp.com/myforevertravel.com/wp-content/uploads/2020/10/IMG_20200919_145800.jpg?resize=423%2C562&ssl=1");
   }
   section.module.parallax-4{
-    background-image: url("https://cdn11.bigcommerce.com/s-42d81/images/stencil/1280x1280/products/4930/15881/MartyrsofJasenovacIcon_OrthodoxGifts__96231.1414176342.jpg?c=2");
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/444/617/desktop-wallpaper-9-russian-orthodox-icons-jesus-christ-orthodox-icons-thumbnail.jpg");
   }
  
 
@@ -145,4 +145,24 @@ body{
  h1, h2{
   text-transform: uppercase;
  }
+
+ div.video{
+  background-color: var(--cor5);
+  margin: 0px -20px 30px -20px;
+  padding: 20px;
+  position: relative;
+  padding-bottom: 59%;
+}
+
+div.video > iframe{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+}
+a{
+  color: white;
+  
+}
  
