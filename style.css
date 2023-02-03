@@ -92,18 +92,21 @@ body{
   
   section.module.parallax-1{
     background-image: url("https://ic.pics.livejournal.com/iverskaya_br/78140960/247638/247638_900.jpg");
-    
+    background-position: top center;
   }
   
   section.module.parallax-2{
     background-image: url("https://www.pallasweb.com/p/2020-1-panto-5.jpg");
+    background-position: top center;
   }
   
   section.module.parallax-3{
     background-image: url("https://i0.wp.com/myforevertravel.com/wp-content/uploads/2020/10/IMG_20200919_145800.jpg?resize=423%2C562&ssl=1");
+    background-position: top center;
   }
   section.module.parallax-4{
     background-image: url("https://e1.pxfuel.com/desktop-wallpaper/444/617/desktop-wallpaper-9-russian-orthodox-icons-jesus-christ-orthodox-icons-thumbnail.jpg");
+    background-position: top center;
   }
  
 
